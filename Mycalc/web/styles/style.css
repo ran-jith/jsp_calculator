@@ -1,0 +1,9 @@
+.mainScreen{
+  margin: auto;
+  width: 1000px;
+  height: 500px;
+  position: relative;
+  border: 3px solid blue;
+  background-image: url('bg3.png');
+}
+
